@@ -1,0 +1,9 @@
+---
+title: "Gatsby, korak po korak"
+date: "2020-02-01"
+---
+
+Ovo je moj nacin instalacije popularne blog platforme Gatsby.
+Ukoliko Vas zanima, odvojite nekoliko minuta!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4SZl1r2O_bY" frameborder="0" allowfullscreen></iframe>
